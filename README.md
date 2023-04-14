@@ -16,7 +16,7 @@ Blockchain specialist | Software Engineer | Researcher (R&D) | Consultant | Netw
 
 👯‍♀️ I'm looking to collaborate on Blockchain projects and it's cross field with AI or Security
 
-💬 Ask me about Blockchain, Software design, Network & Security
+💬 Ask me about Blockchain, Software design and architecture, Network & Security
 
 📫 How to reach me? Just mail me (dminddev01@gmail.com)
 
@@ -42,3 +42,7 @@ Blockchain specialist | Software Engineer | Researcher (R&D) | Consultant | Netw
   </body>
 <html>
     
+ 
+ # Streak Stats
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DmindDev01&theme=dark)](https://git.io/streak-stats)
