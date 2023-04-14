@@ -37,7 +37,7 @@ Blockchain specialist | Software Engineer | Researcher (R&D) | Consultant | Netw
 <html>
   <head></head>
   <body>
-    <a href="https://www.coffeebede.com/dmind01"><img class="img-fluid" style="width:19%" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+    <a href="https://www.coffeebede.com/dmind01"><img class="img-fluid" style="width:20%" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
     <a href="https://www.buymeacoffee.com/dminddev01v"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=dminddev01v&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
   </body>
 <html>
