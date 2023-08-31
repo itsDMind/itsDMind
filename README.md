@@ -18,7 +18,7 @@ Blockchain specialist | Software Engineer | Researcher (R&D) | Consultant | Netw
 
 💬 Ask me about Blockchain, Software design and architecture, Network & Security
 
-📫 How to reach me? Just mail me (dminddev01@gmail.com)
+📫 How to reach me? Just mail me (dmind.me@proton.me)
 
 # Connect with me
 <html>
