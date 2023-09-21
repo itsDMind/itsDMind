@@ -25,20 +25,16 @@ Blockchain specialist | Software Engineer | Researcher (R&D) | Consultant | Netw
   <head></head>
   <body>
    <p align="left" dir="auto">
-    <a href="https://linkedin.com/in/dmind01" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medira" height="30" width="40" style="max-width: 100%;"></a>
+    <a href="https://linkedin.com/in/itsDMind" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medira" height="30" width="40" style="max-width: 100%;"></a>
     <a href="https://instagram.com/hooman.dehghani" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me0dira" height="30" width="40" style="max-width: 100%;"></a>
-    <a href="https://twitter.com/DmindDev01" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="me0dira" height="30" width="40" style="max-width: 100%;"></a>
+    <a href="https://twitter.com/itsDMind" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="me0dira" height="30" width="40" style="max-width: 100%;"></a>
+     <a href="https://www.youtube.com/channel/UCzXoiuhQ8OttJvihhl_1dUA" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="medira" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://github.com/itsDMind" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="medira" height="30" width="40" style="max-width: 100%;"></a>
+     <a href="https://discordapp.com/users/1020409542376444006" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="medira" height="30" width="40" style="max-width: 100%;"></a>
     </p>
   </body>
 </html>
 
-
-# Support Me
-<html>
-  <head></head>
-  <body>
-    <a href="https://www.coffeebede.com/dmind01"><img class="img-fluid" style="width:20%" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
-    <a href="https://www.buymeacoffee.com/dminddev01v"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=dminddev01v&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
   </body>
 <html>
     
