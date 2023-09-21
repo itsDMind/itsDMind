@@ -12,7 +12,7 @@ Blockchain specialist | Software Engineer | Researcher (R&D) | Consultant | Netw
 
 🌱 In attempt to learn more and more
 
-👨‍💻 All of my projects are available at https://github.com/DmindDev01
+👨‍💻 All of my projects are available at https://github.com/itsDMind
 
 👯‍♀️ I'm looking to collaborate on Blockchain projects and it's cross field with Security
 
@@ -41,4 +41,4 @@ Blockchain specialist | Software Engineer | Researcher (R&D) | Consultant | Netw
  
  # Streak Stats
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsDMind&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsDMind)](https://git.io/streak-stats)
