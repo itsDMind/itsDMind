@@ -41,4 +41,4 @@ Blockchain specialist | Software Engineer | Researcher (R&D) | Consultant | Netw
  
  # Streak Stats
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DmindDev01&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsDMind&theme=dark)](https://git.io/streak-stats)
