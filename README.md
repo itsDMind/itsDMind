@@ -35,9 +35,4 @@ Blockchain specialist | Software Engineer | Researcher (R&D) | Consultant | Netw
   </body>
 </html>
 
-  </body>
-<html>
-    
  
- # Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=itsDMInd&theme=dark&hide_border=true)](https://git.io/streak-stats)
