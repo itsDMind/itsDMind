@@ -14,7 +14,7 @@ Blockchain specialist | Software Engineer | Researcher (R&D) | Consultant | Netw
 
 👨‍💻 All of my projects are available at https://github.com/itsDMind
 
-👯‍♀️ I'm looking to collaborate on Blockchain projects and it's cross field with Security
+👯‍♀️ I'm looking to collaborate on Blockchain projects and it's cross fields
 
 💬 Ask me about Blockchain, Software design and architecture, Network & Security
 
