@@ -28,9 +28,9 @@ Blockchain specialist | Software Engineer | Researcher (R&D) | Consultant | Netw
     <a href="https://linkedin.com/in/itsDMind" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medira" height="30" width="40" style="max-width: 100%;"></a>
     <a href="https://instagram.com/hooman.dehghani" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me0dira" height="30" width="40" style="max-width: 100%;"></a>
     <a href="https://twitter.com/itsDMind" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="me0dira" height="30" width="40" style="max-width: 100%;"></a>
-     <a href="https://www.youtube.com/@hooman.dehghani" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="medira" height="30" width="40" style="max-width: 100%;"></a>
+     <a href="https://www.youtube.com/hooman.dehghani" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="medira" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://github.com/itsDMind" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="medira" height="30" width="40" style="max-width: 100%;"></a>
-     <a href="https://discordapp.com/users/1020409542376444006" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="medira" height="30" width="40" style="max-width: 100%;"></a>
+     <a href="https://discordapp.com/users/dmind" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="medira" height="30" width="40" style="max-width: 100%;"></a>
     </p>
   </body>
 </html>
